@@ -4,7 +4,7 @@ module.exports = {
   botInvite: "",
   supportServer: "",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'RTXX GG',
+  status: 'BrK',
   commandsDir: './commands',
   language: "en",
   embedColor: "00fbff",
@@ -13,7 +13,7 @@ module.exports = {
 
   sponsor: {
     status: true,
-    url: "https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A",
+    url: "https://cdn.discordapp.com/attachments/1175120971062054964/1200779894272041060/standard_2.gif?ex=65c76c6c&is=65b4f76c&hm=9dd081adff48cc6cabcb8899a8ae5df5ee82bb0f29055e7e1f0e6f7098a22ebb&",
   },
 
   voteManager: {
