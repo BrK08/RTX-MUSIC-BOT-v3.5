@@ -56,10 +56,10 @@ module.exports = {
            { name: '🎵 Now Playing', value: 'Display the currently playing song information' },
           { name: '🔊 Volume', value: 'Adjust the music volume [ hearing at high volumes is risky ]' },
         ) 
-       .setImage('https://cdn.discordapp.com/attachments/1175120971062054964/1200779894272041060/standard_2.gif?ex=65c76c6c&is=65b4f76c&hm=9dd081adff48cc6cabcb8899a8ae5df5ee82bb0f29055e7e1f0e6f7098a22ebb&')
+       .setImage('https://cdn.discordapp.com/attachments/1027603373836468284/1200874886067925082/standard_3.gif?ex=65c7c4e4&is=65b54fe4&hm=947d9ab416e1295f6e3747b4aee4805ccb39f6ccb98c3f008d549d81aba837de&')
       const button1 = new ButtonBuilder()
         .setLabel('YouTube')
-        .setURL('https://cdn.discordapp.com/attachments/1175120971062054964/1200779894272041060/standard_2.gif?ex=65c76c6c&is=65b4f76c&hm=9dd081adff48cc6cabcb8899a8ae5df5ee82bb0f29055e7e1f0e6f7098a22ebb&')
+        .setURL('https://cdn.discordapp.com/attachments/1027603373836468284/1200874886067925082/standard_3.gif?ex=65c7c4e4&is=65b54fe4&hm=947d9ab416e1295f6e3747b4aee4805ccb39f6ccb98c3f008d549d81aba837de&')
         .setStyle(ButtonStyle.Link);
 
       const button2 = new ButtonBuilder()
@@ -69,7 +69,7 @@ module.exports = {
 
       const button3 = new ButtonBuilder()
         .setLabel('Creator')
-        .setURL('https://cdn.discordapp.com/attachments/1175120971062054964/1200779894272041060/standard_2.gif?ex=65c76c6c&is=65b4f76c&hm=9dd081adff48cc6cabcb8899a8ae5df5ee82bb0f29055e7e1f0e6f7098a22ebb&')
+        .setURL('https://cdn.discordapp.com/attachments/1027603373836468284/1200874886067925082/standard_3.gif?ex=65c7c4e4&is=65b54fe4&hm=947d9ab416e1295f6e3747b4aee4805ccb39f6ccb98c3f008d549d81aba837de&')
         .setStyle(ButtonStyle.Link);
 
       const row = new ActionRowBuilder()
