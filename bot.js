@@ -123,7 +123,7 @@ app.get('/', (req, res) => {
 });
 app.listen(port, () => {
   console.log(`🔗 Listening to RTX: http://localhost:${port}`);
-  console.log(`✨ Happy New Year Welcome To 2024`);
+  console.log(`✨ By BrK `);
 });
 printWatermark();
 
