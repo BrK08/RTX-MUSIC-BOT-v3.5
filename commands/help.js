@@ -59,7 +59,7 @@ module.exports = {
        .setImage('https://cdn.discordapp.com/attachments/1175120971062054964/1200779894272041060/standard_2.gif?ex=65c76c6c&is=65b4f76c&hm=9dd081adff48cc6cabcb8899a8ae5df5ee82bb0f29055e7e1f0e6f7098a22ebb&')
       const button1 = new ButtonBuilder()
         .setLabel('YouTube')
-        .setURL('https://cdn.discordapp.com/attachments/1175120971062054964/1200779894272041060/standard_2.gif?ex=65c76c6c&is=65b4f76c&hm=9dd081adff48cc6cabcb8899a8ae5df5ee82bb0f29055e7e1f0e6f7098a22ebb&')
+        .setURL('https://cdn.discordapp.com/attachments/1200766484897607764/1201560494549516349/standard_4.gif?ex=65ca4369&is=65b7ce69&hm=68e675a750fa2ba11cafb989b5ef982f7b079a35449abb3ccaaf86577d842922&')
         .setStyle(ButtonStyle.Link);
 
       const button2 = new ButtonBuilder()
