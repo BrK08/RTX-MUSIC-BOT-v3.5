@@ -1,19 +1,19 @@
 module.exports = {
   TOKEN: "",
   ownerID: ["1004206704994566164", ""],
-  botInvite: "",
+  botInvite: "https://discord.com/oauth2/authorize?client_id=1175111799138418783&scope=applications.commands%20bot&permissions=8",
   supportServer: "",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
   status: 'RTXX GG',
   commandsDir: './commands',
-  language: "en",
+  language: "tr",
   embedColor: "00fbff",
   errorLog: "",
 
 
   sponsor: {
     status: true,
-    url: "https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A",
+    url: "",
   },
 
   voteManager: {
