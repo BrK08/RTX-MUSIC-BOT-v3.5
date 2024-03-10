@@ -3,17 +3,17 @@ module.exports = {
   ownerID: ["1004206704994566164", ""],
   botInvite: "",
   supportServer: "",
-  mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'RTXX GG',
+  mongodbURL: "mongodb+srv://Berk:berk@cluster0.vdx0xa0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+  status: 'BrK',
   commandsDir: './commands',
-  language: "en",
+  language: "tr",
   embedColor: "00fbff",
   errorLog: "",
 
 
   sponsor: {
     status: true,
-    url: "https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A",
+    url: "https://www.youtube.com/channel/UCzAxwV2CQeKRS0EkROFvmRA",
   },
 
   voteManager: {
